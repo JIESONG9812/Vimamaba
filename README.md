@@ -51,6 +51,7 @@ Recently the state space models (SSMs) with efficient hardware-aware designs, i.
 
 - Install ``causal_conv1d`` and ``mamba``
   - `pip install -e causal_conv1d>=1.1.0`
+  - 注意⚠️必须pip install 'setuptools<70,>=69'不能高于69的版本，不然会报错！！！！
   - `pip install -e mamba-1p1p1`
   
   
