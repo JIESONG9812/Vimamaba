@@ -55,7 +55,8 @@ Recently the state space models (SSMs) with efficient hardware-aware designs, i.
   - `pip install -e mamba-1p1p1`
   
 - Could not load library libcublasLt.so.12遇到这个错误
-- 'sudo apt-get install libcublas-12-0'
+  - `sudo apt-get install libcublas-12-0`
+
 
 
 ## Train Your Vim
